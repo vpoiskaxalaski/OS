@@ -1,0 +1,14 @@
+#include "stdafx.h"
+
+//	c:\\Test1\\file1.txt
+//	c:\\Test1\\
+
+int _tmain(int argc, _TCHAR* argv[])//определение текущего каталога
+{
+	TCHAR Buffer[256];
+	DWORD dwResult = GetCurrentDirectory(256, Buffer);
+	wcout << "Dir: " << Buffer << '\n';
+	getchar();
+
+	return 0;
+}

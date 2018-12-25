@@ -1,0 +1,24 @@
+#include "stdafx.h"
+#include <string.h>
+#include <stdio.h>
+
+int main()//чтение файла
+{
+
+	FILE* fp;
+	char str[80];
+	if ((fp = fopen("c:\\Test1\\file1.txt", "rt")) == NULL)
+	{
+		puts("Opening failed");
+		getchar();
+	}
+	else
+	{
+		fgets(str, 10000, fp);
+		printf("read: %s", str);
+		fclose(fp);
+		getchar();
+	}
+
+	return 0;
+}

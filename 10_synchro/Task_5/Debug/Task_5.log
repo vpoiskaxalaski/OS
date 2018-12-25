@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Task_5.cpp
+e:\university\3k1s\os\lab_8\task_5\task_5.cpp(19): warning C4101: fp: неиспользованная локальная переменная
+  Task_5.vcxproj -> E:\University\3k1s\OS\Lab_8\Lab_8\Debug\Task_5.exe

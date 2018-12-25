@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab_13_Timer.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  stdafx.cpp
+  Lab_13_Timer.cpp
+d:\5semestr\os\2018\lab_10\lab_13_timer\lab_13_timer\lab_13_timer.cpp(128): warning C4101: hdc: неиспользованная локальная переменная
+d:\5semestr\os\2018\lab_10\lab_13_timer\lab_13_timer\lab_13_timer.cpp(127): warning C4101: ps: неиспользованная локальная переменная
+d:\5semestr\os\2018\lab_10\lab_13_timer\lab_13_timer\lab_13_timer.cpp(126): warning C4101: wmId: неиспользованная локальная переменная
+  Lab_13_Timer.vcxproj -> D:\5SEMESTR\OS\2018\Lab_10\Lab_13_Timer\Debug\Example.exe

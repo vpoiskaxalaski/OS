@@ -1,0 +1,110 @@
+﻿  pch.cpp
+  Exmpl.cpp
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(27): error C2086: FILE *fp: переопределение
+  e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(11): note:  см. объявление "fp"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(28): error C2086: char str[80]: переопределение
+  e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(12): note:  см. объявление "str"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(47): error C2065: TCHAR: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(47): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Buffer"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(47): error C2065: Buffer: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(47): error C3861: TEXT: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(48): error C2065: DWORD: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(48): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "nLenCurDir"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(48): error C2065: nLenCurDir: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(49): error C2065: HANDLE: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(49): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "hOut"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(49): error C2065: hOut: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(51): error C2086: FILE *fp: переопределение
+  e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(11): note:  см. объявление "fp"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(54): error C2065: TCHAR: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(54): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "stdPath"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(54): error C2065: stdPath: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(54): error C3861: TEXT: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(56): error C2065: hOut: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(56): error C2065: stdPath: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(56): error C2065: GENERIC_WRITE: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(57): error C2065: CREATE_ALWAYS: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(57): error C2065: FILE_ATTRIBUTE_NORMAL: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(56): error C3861: CreateFile: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(59): error C2065: hOut: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(59): error C2065: INVALID_HANDLE_VALUE: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(60): error C3861: GetLastError: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(72): error C2065: hOut: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(72): error C3861: CloseHandle: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(76): error C2065: TCHAR: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(76): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Buffer"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(76): error C2065: Buffer: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(76): error C3861: TEXT: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(77): error C2065: HANDLE: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(77): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "hOut"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(77): error C2065: hOut: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(78): error C2065: DWORD: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(78): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dwNumberOfBytes"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(78): error C2065: dwNumberOfBytes: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(83): error C2086: FILE *fp: переопределение
+  e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(11): note:  см. объявление "fp"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(86): error C2065: TCHAR: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(86): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "stdPath"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(86): error C2065: stdPath: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(86): error C3861: TEXT: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(87): error C2065: hOut: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(87): error C2065: stdPath: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(87): error C2065: GENERIC_WRITE: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(88): error C2065: CREATE_ALWAYS: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(88): error C2065: FILE_ATTRIBUTE_NORMAL: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(87): error C3861: CreateFile: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(90): error C2065: hOut: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(90): error C2065: INVALID_HANDLE_VALUE: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(91): error C3861: GetLastError: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(99): error C2065: hOut: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(99): error C2065: Buffer: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(99): error C2065: dwNumberOfBytes: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(99): error C3861: WriteFile: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(102): error C2065: hOut: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(102): error C3861: CloseHandle: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(106): error C2065: TCHAR: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(106): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Buffer"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(106): error C2065: Buffer: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(107): error C2065: HANDLE: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(107): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "hIn"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(107): error C2065: hIn: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(108): error C2065: DWORD: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(108): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dwNumberOfBytes"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(108): error C2065: dwNumberOfBytes: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(109): error C2086: FILE *fp: переопределение
+  e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(11): note:  см. объявление "fp"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(112): error C2065: TCHAR: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(112): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "stdPath"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(112): error C2065: stdPath: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(112): error C3861: TEXT: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(114): error C2065: hIn: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(114): error C2065: stdPath: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(114): error C2065: GENERIC_READ: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(115): error C2065: OPEN_EXISTING: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(115): error C2065: FILE_ATTRIBUTE_NORMAL: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(114): error C3861: CreateFile: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(117): error C2065: hIn: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(117): error C2065: INVALID_HANDLE_VALUE: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(118): error C3861: GetLastError: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(126): error C2065: hIn: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(126): error C2065: Buffer: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(126): error C2065: dwNumberOfBytes: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(126): error C3861: ReadFile: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(127): error C2065: Buffer: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(129): error C2065: hIn: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(129): error C3861: CloseHandle: идентификатор не найден
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(134): error C2065: TCHAR: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(134): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Buffer"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(134): error C2065: Buffer: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(135): error C2065: HANDLE: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(135): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "hIn"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(135): error C2065: hIn: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(136): error C2065: DWORD: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(136): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dwNumberOfBytes"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(136): error C2065: dwNumberOfBytes: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(137): error C2086: FILE *fp: переопределение
+  e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(11): note:  см. объявление "fp"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(138): error C2065: BOOL: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(138): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "pr2"
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(138): error C2065: pr2: необъявленный идентификатор
+e:\university\3k1s\os\lab04\exmpl\exmpl\exmpl.cpp(138): fatal error C1003: число ошибок превышает 100; остановка компиляции

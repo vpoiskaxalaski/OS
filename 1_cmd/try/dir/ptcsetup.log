@@ -1,0 +1,125 @@
+<InitMainVars>
+PS_DIRECTORY ** Not Set ** 
+ argv[0] is 'E:\Programs\MathCAD14\MathCAD 14 M035 Rus\dsrc\x86e_win64\obj\ptcsetup.exe'
+ Try to figure it out now 
+ Path1 NOW: E:\Programs\MathCAD14\MathCAD 14 M035 Rus\dsrc\x86e_win64\obj\ptcsetup.exe
+Now look for: E:\Programs\MathCAD14\MathCAD 14 M035 Rus\dsrc\text\compiled_resource\ps_default_resources.dll
+Found E:\Programs\MathCAD14\MathCAD 14 M035 Rus\dsrc\text\compiled_resource\ps_default_resources.dll
+ Resource file exists at: E:\Programs\MathCAD14\MathCAD 14 M035 Rus\dsrc\text\compiled_resource\ps_default_resources.dll
+ So, set PS_DIRECTORY to: E:\Programs\MathCAD14\MathCAD 14 M035 Rus\dsrc
+PTC_CDHOME ** Not Set ** 
+Now look for: E:\Programs\MathCAD14\MathCAD 14 M035 Rus\ptc_inst\cdmaster.ptc
+ So, set PTC_CDHOME to: E:\Programs\MathCAD14\MathCAD 14 M035 Rus
+<PsGetVar> Failed for: PTC_CDHOME
+DPS_DIRECTORY ** Not Set ** 
+ So, set DPS_DIRECTORY to: E:\Programs\MathCAD14\MathCAD 14 M035 Rus\dsrc
+DONE <InitMainVars>
+<PsCd::PsCd> (E:\Programs\MathCAD14\MathCAD 14 M035 Rus)
+<PsGetVar> Failed for: PS_INF_PATH
+<PsGetVar> Failed for: PS_INF_FILE
+ptc_inf_path: E:\Programs\MathCAD14\MathCAD 14 M035 Rus\ptc_inst\ptc.inf
+<PsGetVar> Failed for: PS_ARCH_DB
+<PsInfFile::ReadInf> 'E:\Programs\MathCAD14\MathCAD 14 M035 Rus\ptc_inst\ptc.inf'
+PsCD::LoadSummary
+PsInfFile::ReadInf ignoreCluster = 1
+Start of ReadInf time stamp: Чт май 17 15:51:32 Беларусь (зима) 2018
+End of ReadInf time stamp: Чт май 17 15:51:32 Беларусь (зима) 2018
+Init Translation/Message system
+
+ ---------------------------------- 
+ |      Welcome to PTC.Setup      | 
+ ---------------------------------- 
+ Time: Чт май 17 15:51:32 Беларусь (зима) 2018
+ Could not get DomainName 
+ Host: Cloud
+ Machine type: x86e_win64
+ User: Alena
+ CurDir: E:\Programs\MathCAD14\MathCAD 14 M035 Rus
+ PTC.Setup build info: Jul 21 2009 19:43:03
+ get_internal_version(): L-03-34
+ --------------------------------------------
+
+<PsGetVar> Failed for: PS_CDMASTER
+<PsCd::readResfile> cdmaster.ptc
+<PsCd::addProduct> (flexlm)
+    <PsInstall::PsInstall> loadpoint: 
+    <PsInstall::Refresh> Path: ''
+Returning from PsInstall::Refresh because Path.IsEmpty
+<PsProduct::SetLoadpoint> new loadpoint: 
+ConvertDBAdd __PSF_COMMENT__ '//'
+<PsProduct::readResfile> E:\Programs\MathCAD14\MathCAD 14 M035 Rus\ptc_inst\flexlm.ptc
+PsPackage:: Setting up ezActions for pkg: uninstall
+PsPackage:: Setting up ezActions for pkg: ptcutil
+current flexver: 6.1
+default flexver: 6.1
+<PsCd::addProduct> (mathcad)
+    <PsInstall::PsInstall> loadpoint: 
+    <PsInstall::Refresh> Path: ''
+Returning from PsInstall::Refresh because Path.IsEmpty
+<PsProduct::SetLoadpoint> new loadpoint: 
+ConvertDBAdd __PSF_COMMENT__ '//'
+<PsProduct::readResfile> E:\Programs\MathCAD14\MathCAD 14 M035 Rus\ptc_inst\mathcad.ptc
+set_unihttp CB to PsDownloadAuth
+ClickWrapLA: clickwrap_la
+set_unihttp CB to PsDownloadAuth
+ConvertDBAdd __HOSTID__ '40-49-0F-18-73-47'
+ConvertDBAdd __PRODUCT__ 'Mathcad'
+ConvertDBAdd __RELNUM__ '14'
+ConvertDBAdd __DCODE__ 'M035'
+<SetDlgBrowse> ScreenStudentLic.StudentLicFileBrowse - ScreenStudentLic.StudentLicFile type:2
+DirList.GetSize() = 40
+Generic InitFunc: ScreenDftCmds
+PsSetCompVal failed for ScreenServlet
+BEGIN ScreenWebPub::InitFunc()
+<LpcfgDcadCmd::InitFunc>
+ConvertDBAdd __WEBBROWSER__ 'netscape'
+Setup ScreenWelcome
+ScreenWelcome::DisplayLA - CountrySelected: 
+Which License Agreement will we display: clickwrap_la
+The Current UI Language: russian
+License Agreement Found: E:\Programs\MathCAD14\MathCAD 14 M035 Rus\dsrc\text\russian\clickwrap_la.txt
+pushed is product btnScreenWelcome.ProdButton.1
+ScreenWelcome PostFunc Dir = 1
+ConvertDBAdd __INSTBLE__ 'Mathcad'
+ConvertDBAdd __PRODUCT__ 'Mathcad'
+ScreenWelcome Product::PreCheck for: Mathcad
+PsProductMathcad_precheck called.
+Testing for PreReq .NET 3.5 SP 1 
+PsDotNetFrameworkInstalled: not found : v3.5
+Raise Error DialogПО Microsoft .NET Framework 3.5 SP1 не найдено в системе. Это ПО требуется для завершения установки Mathcad. Загрузить и установить необходимую версию .NET можно по адресу:
+Testing for PreReq IE >= 5.0 
+                   IE == 9.11.9600.17416
+Testing for PreReq MSXML 4.2 
+C:\Windows\system32\msxml3.dll Version == 8.110.9600.0
+C:\Windows\system32\msxml3r.dll Version == 8.110.9600.0
+C:\Windows\system32\msxml6.dll Version == 6.30.9600.0
+C:\Windows\system32\msxml6r.dll Version == 6.30.9600.0
+C:\Windows\winsxs\amd64_microsoft-windows-msxml30_31bf3856ad364e35_6.3.9600.16483_none_792ba2416ace0c80\msxml3.dll Version Unknown... ignoring.
+C:\Windows\winsxs\amd64_microsoft-windows-msxml30_31bf3856ad364e35_6.3.9600.16483_none_792ba2416ace0c80\msxml3r.dll Version == 8.110.9600.0
+C:\Windows\winsxs\amd64_microsoft-windows-msxml30_31bf3856ad364e35_6.3.9600.17415_none_79793b816a939538\msxml3.dll Version == 8.110.9600.0
+C:\Windows\winsxs\amd64_microsoft-windows-msxml30_31bf3856ad364e35_6.3.9600.17415_none_79793b816a939538\msxml3r.dll Version == 8.110.9600.0
+C:\Windows\winsxs\amd64_microsoft-windows-msxml60_31bf3856ad364e35_6.3.9600.16384_none_792c5c4d6acd7593\msxml6.dll Version Unknown... ignoring.
+C:\Windows\winsxs\amd64_microsoft-windows-msxml60_31bf3856ad364e35_6.3.9600.16384_none_792c5c4d6acd7593\msxml6r.dll Version == 6.30.9600.0
+C:\Windows\winsxs\amd64_microsoft-windows-msxml60_31bf3856ad364e35_6.3.9600.17041_none_79547ea56aafdbf6\msxml6.dll Version Unknown... ignoring.
+C:\Windows\winsxs\amd64_microsoft-windows-msxml60_31bf3856ad364e35_6.3.9600.17041_none_79547ea56aafdbf6\msxml6r.dll Version == 6.30.9600.0
+C:\Windows\winsxs\amd64_microsoft-windows-msxml60_31bf3856ad364e35_6.3.9600.17415_none_7978f7296a93e21b\msxml6.dll Version == 6.30.9600.0
+C:\Windows\winsxs\amd64_microsoft-windows-msxml60_31bf3856ad364e35_6.3.9600.17415_none_7978f7296a93e21b\msxml6r.dll Version == 6.30.9600.0
+C:\Windows\winsxs\wow64_microsoft-windows-msxml30_31bf3856ad364e35_6.3.9600.16483_none_83804c939f2ece7b\msxml3.dll Version Unknown... ignoring.
+C:\Windows\winsxs\wow64_microsoft-windows-msxml30_31bf3856ad364e35_6.3.9600.16483_none_83804c939f2ece7b\msxml3r.dll Version == 8.110.9600.0
+C:\Windows\winsxs\wow64_microsoft-windows-msxml30_31bf3856ad364e35_6.3.9600.17415_none_83cde5d39ef45733\msxml3.dll Version == 8.110.9600.0
+C:\Windows\winsxs\wow64_microsoft-windows-msxml30_31bf3856ad364e35_6.3.9600.17415_none_83cde5d39ef45733\msxml3r.dll Version == 8.110.9600.0
+C:\Windows\winsxs\wow64_microsoft-windows-msxml60_31bf3856ad364e35_6.3.9600.16384_none_8381069f9f2e378e\msxml6.dll Version Unknown... ignoring.
+C:\Windows\winsxs\wow64_microsoft-windows-msxml60_31bf3856ad364e35_6.3.9600.16384_none_8381069f9f2e378e\msxml6r.dll Version == 6.30.9600.0
+C:\Windows\winsxs\wow64_microsoft-windows-msxml60_31bf3856ad364e35_6.3.9600.17041_none_83a928f79f109df1\msxml6.dll Version Unknown... ignoring.
+C:\Windows\winsxs\wow64_microsoft-windows-msxml60_31bf3856ad364e35_6.3.9600.17041_none_83a928f79f109df1\msxml6r.dll Version == 6.30.9600.0
+C:\Windows\winsxs\wow64_microsoft-windows-msxml60_31bf3856ad364e35_6.3.9600.17415_none_83cda17b9ef4a416\msxml6.dll Version == 6.30.9600.0
+C:\Windows\winsxs\wow64_microsoft-windows-msxml60_31bf3856ad364e35_6.3.9600.17415_none_83cda17b9ef4a416\msxml6r.dll Version == 6.30.9600.0
+C:\Windows\winsxs\x86_microsoft.msxml2r_6bd6b9abf345378f_4.1.0.0_none_3658456fda6654f6\msxml4r.dll Version == 4.10.9404.0
+C:\Windows\winsxs\x86_microsoft.msxml2_6bd6b9abf345378f_4.20.9818.0_none_b7e811947b297f6d\msxml4.dll Version == 4.20.9818.0
+Search criteria matches MSXML == 4.20.9818.0
+Testing for PreReq MDAC == 2.8 
+                   MDAC == 6.3.9600.16384
+MDAC version is : 6.3
+msi.dll Version == 5.0
+main_dlg->Activate FAILED!
+STATUS my_main: 0

@@ -1,0 +1,33 @@
+#include "stdafx.h"
+
+//	c:\\Test1\\file1.txt
+//	c:\\Test1\\
+
+int _tmain(int argc, _TCHAR* argv[])//надпись через пробелы
+{
+	TCHAR Buffer[256] = TEXT("Glad to hear from You");
+	DWORD nLenCurDir;
+	HANDLE hOut;
+
+	FILE* fp;
+
+	TCHAR stdPath[30] = TEXT("c:\\Test1\\my_api2.txt");
+
+	hOut = CreateFile(stdPath, GENERIC_WRITE, 0, NULL, CREATE_ALWAYS, FILE_ATTRIBUTE_NORMAL, NULL);
+
+	if (hOut == INVALID_HANDLE_VALUE) {
+		printf("ERROR %x \n", GetLastError());
+		getchar();
+
+		return 2;
+	}
+	else
+	{
+		WriteFile(hOut, Buffer, 256, NULL, NULL);
+		printf("Created");
+		getchar();
+		CloseHandle(hOut);
+	}
+
+	return 0;
+}

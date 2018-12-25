@@ -1,0 +1,28 @@
+#include "stdafx.h"
+#include <string.h>
+#include <stdio.h>
+
+int _tmain(int argc, _TCHAR* argv[])//запись текста в файл
+{
+
+	FILE* fp;
+	char str[80] = "glad to hear from you";
+	if ((fp = fopen("C:\\Test1\\c_api.txt", "wt")) == NULL)
+	{
+		puts("Opening failed");
+		getchar();
+	}
+	else
+	{
+		fputs(str, fp);
+		int z = fclose(fp);
+
+		fp = fopen("C:\\Test1\\c_api.txt", "rt");
+		fgets(str, 79, fp);
+		puts(str);
+		z = fclose(fp);
+		getchar();
+	}
+
+	return 0;
+}

@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Task_1.cpp
+e:\university\3k1s\os\12_timer\task_1\task_1.cpp(129): warning C4101: ps: неиспользованная локальная переменная
+e:\university\3k1s\os\12_timer\task_1\task_1.cpp(128): warning C4101: wmId: неиспользованная локальная переменная
+  Task_1.vcxproj -> E:\University\3k1s\OS\12_timer\Lab_13_Timer\Debug\Task_1.exe

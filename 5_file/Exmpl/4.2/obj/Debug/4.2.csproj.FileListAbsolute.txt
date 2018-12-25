@@ -1,0 +1,2 @@
+E:\University\3k1s\OS\lab04\Exmpl\4.2\obj\Debug\4.2.csprojAssemblyReference.cache
+E:\University\3k1s\OS\lab04\Exmpl\4.2\obj\Debug\4.2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,119 @@
+ ’®¬ ¢ ãáâà®©áâ¢¥ E ­¥ ¨¬¥¥â ¬¥âª¨.
+ ‘¥à¨©­ë© ­®¬¥à â®¬ : D637-F829
+
+ ‘®¤¥à¦¨¬®¥ ¯ ¯ª¨ E:\University\3k1s\OS\labs\lab01\temp
+
+b.bmp          concatAB.bmp   report.bmp     text.bmp       
+               4 ä ©«®¢         10ÿ066 ¡ ©â
+
+     ‚á¥£® ä ©«®¢:
+               4 ä ©«®¢         10ÿ066 ¡ ©â
+               0 ¯ ¯®ª  213ÿ153ÿ292ÿ288 ¡ ©â á¢®¡®¤­®
+ ’®¬ ¢ ãáâà®©áâ¢¥ C ­¥ ¨¬¥¥â ¬¥âª¨.
+ ‘¥à¨©­ë© ­®¬¥à â®¬ : 044B-A4EF
+
+ ‘®¤¥à¦¨¬®¥ ¯ ¯ª¨ C:\Windows
+
+11.06.2018  20:27    <DIR>          NT SERVICE\TrustedInsta.
+11.06.2018  20:27    <DIR>          NT SERVICE\TrustedInsta..
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaaddins
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaADFS
+20.05.2018  00:10    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   AppCompat
+05.09.2018  00:04    <DIR>          NT SERVICE\TrustedInstaapppatch
+12.08.2018  17:11    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   AppReadiness
+10.09.2018  21:40    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   assembly
+22.08.2013  14:21            56ÿ832 NT SERVICE\TrustedInstabfsvc.exe
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaBoot
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaBranding
+01.03.2018  11:48    <DIR>          NT SERVICE\TrustedInstaCamera
+04.09.2018  19:27    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   CbsTemp
+28.02.2018  20:09    <DIR>          ...                    CSC
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaCursors
+17.05.2018  22:27    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   debug
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaDesktopTileResources
+03.06.2018  15:06             1ÿ908 BUILTIN\€¤¬¨­¨áâà â®àë diagerr.xml
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstadiagnostics
+03.06.2018  15:06             1ÿ908 BUILTIN\€¤¬¨­¨áâà â®àë diagwrn.xml
+22.08.2013  18:43    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   DigitalLocker
+30.05.2018  23:41            10ÿ009 BUILTIN\€¤¬¨­¨áâà â®àë DirectX.log
+01.03.2018  11:59             2ÿ988 NT AUTHORITY\‘ˆ‘’…Œ€   DtcInstall.log
+22.08.2013  17:51    <DIR>          NT SERVICE\TrustedInstaen-US
+27.08.2016  22:44         2ÿ755ÿ504 NT SERVICE\TrustedInstaexplorer.exe
+01.03.2018  11:48    <DIR>          NT SERVICE\TrustedInstaFileManager
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaGlobalization
+18.03.2014  12:30    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   Help
+02.06.2017  15:06         1ÿ001ÿ984 NT SERVICE\TrustedInstaHelpPane.exe
+29.10.2014  05:43            17ÿ408 NT SERVICE\TrustedInstahh.exe
+17.05.2018  08:27    <DIR>          BUILTIN\€¤¬¨­¨áâà â®àë hsperfdata_Alena
+01.03.2018  11:47    <DIR>          NT SERVICE\TrustedInstaIME
+06.06.2018  13:43    <DIR>          NT SERVICE\TrustedInstaImmersiveControlPanel
+11.09.2018  22:10    <DIR>          NT SERVICE\TrustedInstaInf
+22.08.2013  18:36    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   InputMethod
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaL2Schemas
+02.07.2018  16:55    <DIR>          ...                    LiveKernelReports
+30.05.2018  23:38    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   Logs
+01.03.2018  11:48    <DIR>          NT SERVICE\TrustedInstaMediaViewer
+11.06.2018  20:27       331ÿ354ÿ446 ...                    MEMORY.DMP
+22.08.2013  10:01            43ÿ131 NT SERVICE\TrustedInstamib.bin
+11.09.2018  23:00    <DIR>          NT SERVICE\TrustedInstaMicrosoft.NET
+01.03.2018  07:03    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   Migration
+11.06.2018  20:27    <DIR>          ...                    Minidump
+22.08.2013  18:36    <DIR>          ...                    ModemLogs
+09.07.2015  20:13           221ÿ184 NT SERVICE\TrustedInstanotepad.exe
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaOffline Web Pages
+28.02.2018  21:33    <DIR>          BUILTIN\€¤¬¨­¨áâà â®àë Options
+28.02.2018  20:10    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   Panther
+01.03.2018  08:19    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   PCHEALTH
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaPerformance
+09.09.2018  00:08           316ÿ586 BUILTIN\€¤¬¨­¨áâà â®àë PFRO.log
+22.08.2013  18:36    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   PLA
+06.06.2018  13:43    <DIR>          NT SERVICE\TrustedInstaPolicyDefinitions
+13.09.2018  17:42    <DIR>          ...                    Prefetch
+22.08.2013  09:51            36ÿ235 BUILTIN\€¤¬¨­¨áâà â®àë Professional.xml
+28.03.2018  16:08           897ÿ688 NT AUTHORITY\‘ˆ‘’…Œ€   py.exe
+14.03.2018  03:13            59ÿ040 NT AUTHORITY\‘ˆ‘’…Œ€   pyshellext.amd64.dll
+28.03.2018  16:08           897ÿ688 NT AUTHORITY\‘ˆ‘’…Œ€   pyw.exe
+29.10.2014  05:12           154ÿ624 NT SERVICE\TrustedInstaregedit.exe
+22.08.2013  18:36    <DIR>          BUILTIN\€¤¬¨­¨áâà â®àë Registration
+07.09.2018  20:07    <DIR>          NT SERVICE\TrustedInstarescache
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaResources
+18.03.2014  13:53    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   ru-RU
+22.08.2013  18:36    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   SchCache
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaschemas
+18.03.2014  12:47    <DIR>          NT SERVICE\TrustedInstasecurity
+22.08.2013  17:45    <DIR>          BUILTIN\€¤¬¨­¨áâà â®àë ServiceProfiles
+01.03.2018  11:47    <DIR>          NT SERVICE\TrustedInstaservicing
+22.08.2013  17:45    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   Setup
+12.09.2018  19:47            45ÿ701 NT AUTHORITY\‘ˆ‘’…Œ€   setupact.log
+03.06.2018  15:03                 0 NT AUTHORITY\‘ˆ‘’…Œ€   setuperr.log
+06.06.2018  13:42    <DIR>          NT SERVICE\TrustedInstaShellNew
+18.03.2014  12:47    <DIR>          NT SERVICE\TrustedInstaSKB
+28.02.2018  22:08    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   SoftwareDistribution
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaSpeech
+04.11.2014  09:27           128ÿ512 NT SERVICE\TrustedInstasplwow64.exe
+22.08.2013  09:51            35ÿ891 NT AUTHORITY\‘ˆ‘’…Œ€   Starter.xml
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaSystem
+22.08.2013  16:25               219 NT AUTHORITY\‘ˆ‘’…Œ€   system.ini
+13.09.2018  14:05    <DIR>          NT SERVICE\TrustedInstaSystem32
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaSystemResources
+11.09.2018  14:59    <DIR>          NT SERVICE\TrustedInstaSysWOW64
+22.08.2013  18:36    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   TAPI
+26.04.2018  18:46    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   Tasks
+13.09.2018  17:14    <DIR>          ...                    Temp
+05.09.2018  00:04    <DIR>          NT SERVICE\TrustedInstaToastData
+28.02.2018  20:43    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   tracing
+01.03.2018  11:47    <DIR>          NT SERVICE\TrustedInstatwain_32
+29.10.2014  04:34            54ÿ272 NT SERVICE\TrustedInstatwain_32.dll
+18.03.2014  14:00             5ÿ446 NT AUTHORITY\‘ˆ‘’…Œ€   vmgcoinstall.log
+22.08.2013  18:36    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   vpnplugins
+22.08.2013  18:36    <DIR>          NT AUTHORITY\‘ˆ‘’…Œ€   Vss
+22.08.2013  18:36    <DIR>          NT SERVICE\TrustedInstaWeb
+04.09.2018  19:27               167 NT AUTHORITY\‘ˆ‘’…Œ€   win.ini
+13.09.2018  17:47         1ÿ218ÿ362 NT AUTHORITY\‘ˆ‘’…Œ€   WindowsUpdate.log
+29.10.2014  04:53             9ÿ728 NT SERVICE\TrustedInstawinhlp32.exe
+06.06.2018  13:43    <DIR>          NT SERVICE\TrustedInstaWinStore
+05.09.2018  00:31    <DIR>          NT SERVICE\TrustedInstaWinSxS
+18.06.2013  17:54           316ÿ640 NT SERVICE\TrustedInstaWMSysPr9.prx
+29.10.2014  05:34            11ÿ264 NT SERVICE\TrustedInstawrite.exe
+              29 ä ©«®¢    339ÿ655ÿ365 ¡ ©â
+              72 ¯ ¯®ª  97ÿ889ÿ337ÿ344 ¡ ©â á¢®¡®¤­®

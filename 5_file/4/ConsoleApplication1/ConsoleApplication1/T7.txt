@@ -1,0 +1,31 @@
+#include "stdafx.h"
+
+//	c:\\Test1\\file1.txt
+//	c:\\Test1\\
+
+int _tmain(int argc, _TCHAR* argv[])//копирование файла
+{
+
+	TCHAR Buffer[256];
+	HANDLE hIn;
+	DWORD dwNumberOfBytes;
+	FILE* fp;
+	BOOL pr2 = 0;
+
+	TCHAR stdPathA[30] = TEXT("c:\\Test1\\file1.txt");
+	TCHAR stdPathB[30] = TEXT("c:\\Test2\\file1.txt");
+
+	BOOL pr = CopyFile(stdPathA, stdPathB, pr2);
+	if (pr)
+	{
+		printf("COPIED");
+		getchar();
+	}
+	else
+	{
+		printf(" NOT COPIED");
+		getchar();
+	}
+
+	return 0;
+}

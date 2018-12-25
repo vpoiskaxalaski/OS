@@ -1,0 +1,30 @@
+#include "stdafx.h"
+
+//	c:\\Test1\\file1.txt
+//	c:\\Test1\\
+
+int _tmain(int argc, _TCHAR* argv[])//удаление
+{
+
+	TCHAR Buffer[256];
+	HANDLE hIn;
+	DWORD dwNumberOfBytes;
+	FILE* fp;
+	BOOL pr2 = 0;
+
+	TCHAR stdPathA[30] = TEXT("c:\\Test2\\file2.txt");
+
+	BOOL pr = DeleteFile(stdPathA);
+	if (pr)
+	{
+		printf("DELETED");
+		getchar();
+	}
+	else
+	{
+		printf(" NOT DELETED");
+		getchar();
+	}
+
+	return 0;
+}

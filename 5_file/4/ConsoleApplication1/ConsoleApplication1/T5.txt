@@ -1,0 +1,32 @@
+#include "stdafx.h"
+
+//	c:\\Test1\\file1.txt
+//	c:\\Test1\\
+
+int _tmain(int argc, _TCHAR* argv[])//демонстрирует чтение ранее созданного файла средствами API+. Используется функция  ReadFile. 
+{
+	TCHAR Buffer[256];
+	HANDLE hIn;
+	DWORD dwNumberOfBytes;
+	FILE* fp;
+	TCHAR stdPath[30] = TEXT("c:\\Test1\\my_api2.txt");
+	hIn = CreateFile(stdPath, GENERIC_READ, 0, NULL, OPEN_EXISTING, FILE_ATTRIBUTE_NORMAL, NULL);
+
+	if (hIn == INVALID_HANDLE_VALUE) {
+		printf("ERROR %x \n", GetLastError());
+		getchar();
+		return 2;
+	}
+	else
+	{
+		ReadFile(hIn, Buffer, 256, &dwNumberOfBytes, NULL);
+		printf("DataRead!");
+		char var[260];
+		wcstombs(var, Buffer, wcslen(Buffer) + 1);
+		cout << var << endl;
+		getchar();
+		CloseHandle(hIn);
+	}
+
+	return 0;
+}

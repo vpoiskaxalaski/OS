@@ -1,0 +1,4 @@
+﻿  Task_1.cpp
+e:\university\3k1s\os\lab_9\task_1\task_1.cpp(57): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+e:\university\3k1s\os\lab_9\task_1\task_1.cpp(46): warning C4101: i: неиспользованная локальная переменная
+  Task_1.vcxproj -> E:\University\3k1s\OS\Lab_9\Lab_9\Debug\Task_1.exe

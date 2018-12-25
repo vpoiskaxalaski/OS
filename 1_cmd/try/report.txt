@@ -1,0 +1,269 @@
+
+Активные подключения
+
+  Имя    Локальный адрес        Внешний адрес          Состояние
+  TCP    0.0.0.0:135            Cloud:0                LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            Cloud:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:1433           Cloud:0                LISTENING
+ [sqlservr.exe]
+  TCP    0.0.0.0:3306           Cloud:0                LISTENING
+ [mysqld.exe]
+  TCP    0.0.0.0:5357           Cloud:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:49152          Cloud:0                LISTENING
+ [wininit.exe]
+  TCP    0.0.0.0:49153          Cloud:0                LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49154          Cloud:0                LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:49155          Cloud:0                LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49156          Cloud:0                LISTENING
+ [spoolsv.exe]
+  TCP    0.0.0.0:49157          Cloud:0                LISTENING
+ [sqlservr.exe]
+  TCP    0.0.0.0:49158          Cloud:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    127.0.0.1:6543         Cloud:0                LISTENING
+ [BtvStack.exe]
+  TCP    192.168.0.103:139      Cloud:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    192.168.0.103:50180    40.67.251.134:https    ESTABLISHED
+ [Explorer.EXE]
+  TCP    192.168.0.103:50189    ws-in-f188:5228        ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:52924    srv165-11-213-95:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:52969    srv131-129-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:52977    srv224-182-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:52983    srv230-182-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:52985    srv210-182-240-87:https  TIME_WAIT
+  TCP    192.168.0.103:52986    srv71-190-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:52987    srv70-190-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:52989    srv69-190-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:52990    srv242-182-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:52999    srv69-129-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53000    srv172-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53001    srv68-129-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53002    srv70-190-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53003    srv72-190-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53004    srv72-190-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53005    srv66-129-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53006    srv65-251-32-185:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53007    srv183-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53008    srv68-129-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53010    srv181-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53011    srv163-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53012    srv163-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53013    srv182-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53014    srv167-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53016    srv164-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53017    srv161-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53018    srv65-203:https        ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53020    srv171-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53021    srv168-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53022    srv67-129-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53023    srv165-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53024    srv175-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53025    srv64-201:https        ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53027    srv180-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53028    srv169-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53030    srv166-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53032    srv4-206:https         ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53033    srv166-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53034    srv2-206:https         ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53036    srv67-201:https        ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53037    srv160-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53038    srv174-204:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53041    srv72-190-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53042    srv69-190-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53043    srv69-190-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53045    srv244-182-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53047    vip01:https            CLOSE_WAIT
+ [opera.exe]
+  TCP    192.168.0.103:53048    srv134-129-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.0.103:53049    52.109.32.23:https     TIME_WAIT
+  TCP    192.168.0.103:53050    104.18.21.226:http     ESTABLISHED
+  CryptSvc
+ [svchost.exe]
+  TCP    192.168.56.1:139       Cloud:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:135               Cloud:0                LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               Cloud:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:1433              Cloud:0                LISTENING
+ [sqlservr.exe]
+  TCP    [::]:5357              Cloud:0                LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:49152             Cloud:0                LISTENING
+ [wininit.exe]
+  TCP    [::]:49153             Cloud:0                LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49154             Cloud:0                LISTENING
+ [lsass.exe]
+  TCP    [::]:49155             Cloud:0                LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49156             Cloud:0                LISTENING
+ [spoolsv.exe]
+  TCP    [::]:49157             Cloud:0                LISTENING
+ [sqlservr.exe]
+  TCP    [::]:49158             Cloud:0                LISTENING
+ Не удается получить сведения о владельце
+  UDP    0.0.0.0:500            *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+ [dashost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+ [dashost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:4500           *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:5355           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:51029          *:*                    
+ [dashost.exe]
+  UDP    0.0.0.0:52713          *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    0.0.0.0:63004          *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    127.0.0.1:1900         *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:51266        *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.0.103:137      *:*                    
+ Не удается получить сведения о владельце
+  UDP    192.168.0.103:138      *:*                    
+ Не удается получить сведения о владельце
+  UDP    192.168.0.103:1900     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.0.103:51265    *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.56.1:137       *:*                    
+ Не удается получить сведения о владельце
+  UDP    192.168.56.1:138       *:*                    
+ Не удается получить сведения о владельце
+  UDP    192.168.56.1:1900      *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:500               *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+ [dashost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+ [dashost.exe]
+  UDP    [::]:4500              *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:5355              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:51030             *:*                    
+ [dashost.exe]
+  UDP    [::]:52714             *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    [::]:63005             *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::1]:1900             *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:51264            *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::99fb:c64f:aaab:c391%17]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::f5cd:80fe:41e5:7d16%12]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::f5cd:80fe:41e5:7d16%12]:51263  *:*                    
+  SSDPSRV
+ [svchost.exe]

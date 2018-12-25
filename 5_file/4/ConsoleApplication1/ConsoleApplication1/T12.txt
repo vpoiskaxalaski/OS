@@ -1,0 +1,31 @@
+#include "stdafx.h"
+
+//	c:\\Test1\\file1.txt
+//	c:\\Test1\\
+
+int _tmain(int argc, _TCHAR* argv[])//—Œ«ƒ¿Õ»≈  ¿“¿ÀŒ√¿
+{
+	TCHAR Buffer[256];
+	TCHAR Buffer2[] = TEXT("C:\\Test1");
+	TCHAR Buffer3[] = TEXT("C:\\Test2\\Test");
+
+	DWORD dwResult = GetCurrentDirectory(256, Buffer);
+	wcout << "Dir: " << Buffer << '\n';
+
+	BOOL b = SetCurrentDirectory(Buffer2);
+
+	dwResult = GetCurrentDirectory(256, Buffer);
+	wcout << "Dir: " << Buffer << '\n';
+	if (CreateDirectory(Buffer3, NULL))
+	{
+		wcout << "directory create" << '\n';
+	}
+	else
+	{
+		wcout << "error create directory" << '\n';
+	}
+
+	getchar();
+
+	return 0;
+}

@@ -1,0 +1,5 @@
+﻿  Win32Project3.cpp
+e:\university\3k1s\os\lab05\win32project3\win32project3\win32project3.cpp(174): warning C4101: hdc: неиспользованная локальная переменная
+e:\university\3k1s\os\lab05\win32project3\win32project3\win32project3.cpp(173): warning C4101: ps: неиспользованная локальная переменная
+e:\university\3k1s\os\lab05\win32project3\win32project3\win32project3.cpp(230): warning C4715: WndProc: значение возвращается не при всех путях выполнения
+  Win32Project3.vcxproj -> E:\University\3k1s\OS\lab05\Win32Project3\Debug\Win32Project3.exe

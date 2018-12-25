@@ -1,0 +1,10 @@
+Сравнение файлов TEMP\b.bmp и TEMP\TEXT.BMP
+***** TEMP\b.bmp
+B
+***** TEMP\TEXT.BMP
+Aend
+of
+file
+
+*****
+

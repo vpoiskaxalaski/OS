@@ -1,0 +1,1 @@
+start E:\University\3k1s\OS\lab03\sysvar.vbs
